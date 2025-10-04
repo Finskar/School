@@ -10,16 +10,16 @@ I **will** complete these lessons!
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-## Headers
+##Headers
 
-#Header one
-##Header two
-###Header three
-####Header four
-#####Header five
-######Header six
+# Header one
+## Header two
+### Header three
+#### Header four
+##### Header five
+###### Header six
 
-####Colombian Symbolism in _One Hundred Years of Solitude_
+#### Colombian Symbolism in _One Hundred Years of Solitude_
 
 Here's some words about the book _One Hundred Years..._.
 
@@ -97,7 +97,7 @@ I read this interesting quote the other day:
  
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
- ## Paragraphs
+## Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
@@ -109,5 +109,4 @@ To doubt they were kneeling then.
  If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.  
-
  Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
